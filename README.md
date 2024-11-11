@@ -27,7 +27,7 @@ wakatime
 <!--
 Here are some ideas to get you started:-->
 <a href="https://github.com/oktayudha05">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=oktayudha05&row=2&theme=algolia" />
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=oktayudha05&row=1&theme=algolia" />
 </a>
 
 
