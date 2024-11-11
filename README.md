@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&layout=compact&icons=true&theme=transparent)
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oktayudha05&show_icons=false&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oktayudha05&show_icons=true&theme=transparent)
 
 ![oktayudha's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&show_icons=true&theme=transparent)
 
