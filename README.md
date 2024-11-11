@@ -4,14 +4,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oktayudha05&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true))
 ![oktayudha's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&show_icons=true&theme=transparent)
 -->
-<details>
-<a href="https://github.com/oktayudha05">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=oktayudha05&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true)" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/oktayudha05">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&show_icons=true&theme=transparent)" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
-</details>
 
 <!--
 **oktayudha05/oktayudha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
