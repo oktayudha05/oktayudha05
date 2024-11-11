@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&layout=compact)](https://github.com/oktayudha05/github-readme-stats)
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&layout=compact)]
 **oktayudha05/oktayudha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
