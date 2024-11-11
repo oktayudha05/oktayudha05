@@ -5,10 +5,10 @@
 ![oktayudha's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&show_icons=true&theme=transparent)
 -->
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&include_all_commits=true&hide=issues&border_color=2e4058" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&card_width=320&include_all_commits=true&hide=issues&border_color=2e4058" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Belajar-koding,Bookshelf-API,Contact-app,realtimeChat-firebase,tanya-orang-gabut,PDF-Generate,belajar-nodeJs&hide=css,jupyter%20notebook&hide_progress=true&layout=compact&langs_count=8&theme=transparent&border_color=2e4058" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Belajar-koding,Bookshelf-API,Contact-app,realtimeChat-firebase,tanya-orang-gabut,PDF-Generate,belajar-nodeJs&hide=css,jupyter%20notebook&hide_progress=true&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
 </a>
 <a href="">
   <img width=410 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&layout=compact&langs_count=8&card_width=600&theme=transparent&border_color=2e4058" />
