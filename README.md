@@ -8,10 +8,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&include_all_commits=true&border_color=2e4058" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Kuliah,tanya-orang-gabut,Belajar-koding&layout=compact&langs_count=8&card_width=320&theme=transparent&border_color=2e4058" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Kuliah,tanya-orang-gabut,Belajar-koding,belajar-nodeJs&layout=compact&langs_count=8&card_width=320&theme=transparent&border_color=2e4058" />
 </a>
 <a href="">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
 </a>
 <!--
 <a href="">
