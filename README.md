@@ -6,7 +6,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&card_width=320&include_all_commits=true&hide=issues&border_color=2e4058" />
 <!--![oktayudha's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&show_icons=true&theme=transparent)-->
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 wakatime
