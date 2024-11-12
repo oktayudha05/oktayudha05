@@ -13,23 +13,24 @@
 </a>-->
 
 
-<div align="center">
-  <!-- Kartu GitHub Stats -->
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start;">
+  <!-- GitHub Stats on the left -->
   <a href="https://github.com/oktayudha05">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&card_width=320&include_all_commits=true&hide=issues&border_color=2e4058" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&card_width=320&include_all_commits=true&hide=issues&border_color=2e4058" />
   </a>
 
-  <!-- Kartu Top Languages dan WakaTime dalam satu kolom -->
-  <div style="display: inline-block; vertical-align: top;">
+  <!-- Column on the right containing Top Languages and WakaTime -->
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <!-- GitHub Top Languages -->
     <a href="https://github.com/oktayudha05">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Belajar-koding,Bookshelf-API,Contact-app,realtimeChat-firebase,tanya-orang-gabut,PDF-Generate,belajar-nodeJs&hide=css,jupyter%20notebook&hide_progress=true&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Belajar-koding,Bookshelf-API,Contact-app,realtimeChat-firebase,tanya-orang-gabut,PDF-Generate,belajar-nodeJs&hide=css,jupyter%20notebook&hide_progress=true&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
     </a>
     <a href="https://github.com/oktayudha05">
-      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&hide_progress=true&layout=compact&langs_count=8&card_height=400&theme=transparent&border_color=2e4058" />
+      <img width=450 src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&hide_progress=true&layout=compact&langs_count=8&card_height=400&theme=transparent&border_color=2e4058" />
     </a>
   </div>
 </div>
-
 
 
 
