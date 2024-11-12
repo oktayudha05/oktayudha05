@@ -14,19 +14,22 @@
 
 
 <div align="center">
-  <!-- Kartu GitHub Stats dan Top Languages -->
+  <!-- Kartu GitHub Stats -->
   <a href="https://github.com/oktayudha05">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oktayudha05&theme=transparent&rank_icon=github&card_width=320&include_all_commits=true&hide=issues&border_color=2e4058" />
   </a>
-  <a href="https://github.com/oktayudha05">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Belajar-koding,Bookshelf-API,Contact-app,realtimeChat-firebase,tanya-orang-gabut,PDF-Generate,belajar-nodeJs&hide=css,jupyter%20notebook&hide_progress=true&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
-  </a>
-  
-  <!-- Kartu WakaTime di bawahnya dan di tengah -->
-  <a href="https://github.com/oktayudha05">
-    <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&hide_progress=true&layout=compact&langs_count=8&card_height=400&theme=transparent&border_color=2e4058" />
-  </a>
+
+  <!-- Kartu Top Languages dan WakaTime dalam satu kolom -->
+  <div style="display: inline-block; vertical-align: top;">
+    <a href="https://github.com/oktayudha05">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktayudha05&exclude_repo=Belajar-koding,Bookshelf-API,Contact-app,realtimeChat-firebase,tanya-orang-gabut,PDF-Generate,belajar-nodeJs&hide=css,jupyter%20notebook&hide_progress=true&layout=compact&langs_count=8&card_width=120&theme=transparent&border_color=2e4058" />
+    </a>
+    <a href="https://github.com/oktayudha05">
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&hide_progress=true&layout=compact&langs_count=8&card_height=400&theme=transparent&border_color=2e4058" />
+    </a>
+  </div>
 </div>
+
 
 
 
