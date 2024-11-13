@@ -24,10 +24,10 @@
     </a>
   </div>
   
-  <!-- Baris kedua: Kartu WakaTime di bawahnya dengan lebar penuh 
+  Baris kedua: Kartu WakaTime di bawahnya dengan lebar penuh 
   <a href="https://github.com/oktayudha05" style="width: 100%; display: flex; justify-content: center;">
     <img width=660 src="https://github-readme-stats.vercel.app/api/wakatime?username=oktayudha05&hide_progress=true&layout=compact&langs_count=8&card_height=400&theme=transparent&border_color=2e4058" />
-  </a>-->
+  </a>
 </div>
 
 
